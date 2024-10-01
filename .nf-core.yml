@@ -1,5 +1,11 @@
 repository_type: pipeline
 nf_core_version: "2.14.1"
 template:
+  author: mirpedrol
+  description: this is a plain nf-core pipeline template which will be customised afterwards with nf-core pipelines sync
+  is_nfcore: true
+  name: plainnfcore
+  org: nf-core
+  outdir: .
   skip_features:
     - igenomes
