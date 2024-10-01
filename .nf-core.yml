@@ -1,2 +1,17 @@
+bump_version: null
+lint: {}
+nf_core_version: 2.14.2.dev0
+org_path: null
 repository_type: pipeline
-nf_core_version: "2.14.1"
+template:
+  author: mirpedrol
+  description: this is a plain nf-core pipeline template which will be customised
+    afterwards with nf-core pipelines sync
+  force: true
+  is_nfcore: true
+  name: nf-core/plainnfcore
+  org: nf-core
+  outdir: /Users/jmir/Work/TEST/nf-core-plainnfcore
+  skip_features: null
+  version: 1.0dev
+update: null
