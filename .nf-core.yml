@@ -12,6 +12,7 @@ template:
   name: plainnfcore
   org: nf-core
   outdir: .
-  skip_features: null
   version: 1.0dev
+  skip_features:
+    - igenomes
 update: null
