@@ -1,5 +1,7 @@
 # nf-core/plainnfcore: Usage
 
+## :warning: Please read this documentation on the nf-core website: [https://nf-co.re/plainnfcore/usage](https://nf-co.re/plainnfcore/usage)
+
 > _Documentation of pipeline parameters is generated automatically from the pipeline schema and can no longer be found in markdown files._
 
 ## Introduction

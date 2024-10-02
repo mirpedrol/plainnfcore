@@ -4,6 +4,8 @@
     nf-core/plainnfcore
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Github : https://github.com/nf-core/plainnfcore
+    Website: https://nf-co.re/plainnfcore
+    Slack  : https://nfcore.slack.com/channels/plainnfcore
 ----------------------------------------------------------------------------------------
 */
 
